@@ -1,6 +1,6 @@
 # Cpu
 
-VB6 working copy of `Cpu` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. `VersionCompanyName`: Chips, Bits and Bytes.
+Chips, Bits and Bytes VB6 always-on-top CPU meter: reads Win9x `HKEY_DYN_DATA\PerfStats` `KERNEL\CPUUsage` on a timer and paints a 10-segment green bar (`frmCPU.frm`). Double-click to exit. Open `Cpu.vbp` in the VB6 IDE (legacy Win9x registry perf keys).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
